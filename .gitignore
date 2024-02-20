@@ -398,7 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 *appsettings*
-/DataAccess/WebbStoreAPI/appsettings.Development.json
-/DataAccess/WebbStoreAPI/appsettings.json
-/DataAccess/WebbStoreAPI/appsettings.Development.json
-/DataAccess/WebbStoreAPI/appsettings.Development.json
+
