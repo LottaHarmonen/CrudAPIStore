@@ -1,0 +1,6 @@
+@WebbStoreAPI_HostAddress = http://localhost:5100
+
+GET {{WebbStoreAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
